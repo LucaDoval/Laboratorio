@@ -1,0 +1,1107 @@
+2023-10-20 22:01:09,076 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-20 22:01:09,194 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000022477324100>
+2023-10-20 22:01:09,194 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000002247783A130; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-20 22:01:09,752 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-20 22:01:09,752 - $(threadName)s - MainProcess - DEBUG - Ocurrio una excepcion: <traceback object at 0x000002247731AC40> relation "users" does not exist
+LINE 1: INSERT INTO Users(username, password) VALUES ('Luca', 'pbkdf...
+                    ^
+ <traceback object at 0x000002247731AC40>
+2023-10-20 22:01:09,753 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000002247783A130; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-20 22:01:33,541 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-20 22:01:33,756 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000027F4B324100>
+2023-10-20 22:01:33,756 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000027F4B83A130; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-20 22:01:34,348 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-20 22:01:34,348 - $(threadName)s - MainProcess - DEBUG - Ocurrio una excepcion: <traceback object at 0x0000027F4B8F1B00> relation "users" does not exist
+LINE 1: INSERT INTO Users(username, password) VALUES ('Luca', 'pbkdf...
+                    ^
+ <traceback object at 0x0000027F4B8F1B00>
+2023-10-20 22:01:34,348 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x0000027F4B83A130; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-20 22:02:14,584 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-20 22:02:14,686 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000271E4624100>
+2023-10-20 22:02:14,686 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000271E493A130; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-20 22:02:15,267 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-20 22:02:15,267 - $(threadName)s - MainProcess - DEBUG - Ocurrio una excepcion: <traceback object at 0x00000271E4972540> relation "users" does not exist
+LINE 1: INSERT INTO Users(username, password) VALUES ('Luca', 'pbkdf...
+                    ^
+ <traceback object at 0x00000271E4972540>
+2023-10-20 22:02:15,267 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x00000271E493A130; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-20 22:07:19,089 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-20 22:07:19,289 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000002BAB9A26A40>
+2023-10-20 22:07:19,289 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000002BAB9F36130; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-20 22:07:19,888 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-20 22:07:19,889 - $(threadName)s - MainProcess - DEBUG - Ocurrio una excepcion: <traceback object at 0x000002BAB9737780> relation "users" does not exist
+LINE 1: INSERT INTO Users(username, password) VALUES ('Luca', 'pbkdf...
+                    ^
+ <traceback object at 0x000002BAB9737780>
+2023-10-20 22:07:19,889 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000002BAB9F36130; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-20 22:09:50,131 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-20 22:09:50,233 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001E070D26A40>
+2023-10-20 22:09:50,233 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001E07123A130; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-20 22:09:50,795 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-20 22:09:50,796 - $(threadName)s - MainProcess - DEBUG - Ocurrio una excepcion: <traceback object at 0x000001E070D44F00> relation "users" does not exist
+LINE 1: INSERT INTO Users(username, password) VALUES ('Luca', 'pbkdf...
+                    ^
+ <traceback object at 0x000001E070D44F00>
+2023-10-20 22:09:50,796 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001E07123A130; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-20 22:22:27,735 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-20 22:22:27,840 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000002493E519120>
+2023-10-20 22:22:27,840 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000002493E87A130; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-20 22:22:28,415 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-20 22:22:28,415 - $(threadName)s - MainProcess - DEBUG - Ocurrio una excepcion: <traceback object at 0x000002493E51EC40> relation "users" does not exist
+LINE 1: INSERT INTO Users(username, password) VALUES ('Luca', 'pbkdf...
+                    ^
+ <traceback object at 0x000002493E51EC40>
+2023-10-20 22:22:28,415 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000002493E87A130; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-20 22:23:31,300 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-20 22:23:31,403 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001FD15C18A30>
+2023-10-20 22:23:31,403 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001FD15043890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-20 22:23:31,405 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-20 22:23:31,406 - $(threadName)s - MainProcess - DEBUG - Ocurrio una excepcion: <traceback object at 0x000001FD15C1EFC0> relation "users" does not exist
+LINE 1: INSERT INTO Users(username, password) VALUES ('Luca', 'Camil...
+                    ^
+ <traceback object at 0x000001FD15C1EFC0>
+2023-10-20 22:23:31,406 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001FD15043890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-20 22:25:27,698 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-20 22:25:27,808 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000002C151F18A30>
+2023-10-20 22:25:27,809 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000002C151623890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-20 22:25:27,810 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-20 22:25:27,810 - $(threadName)s - MainProcess - DEBUG - Ocurrio una excepcion: <traceback object at 0x000002C151F1EFC0> relation "users" does not exist
+LINE 1: INSERT INTO Users(username, password) VALUES ('Luca', 'Camil...
+                    ^
+ <traceback object at 0x000002C151F1EFC0>
+2023-10-20 22:25:27,811 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000002C151623890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-23 20:24:13,488 - $(threadName)s - MainProcess - ERROR - Conexion de poll erronea: connection to server at "127.0.0.1", port 5432 failed: FATAL:  password authentication failed for user "user_experience"
+
+2023-10-23 20:28:26,050 - $(threadName)s - MainProcess - ERROR - Conexion de poll erronea: connection to server at "127.0.0.1", port 5432 failed: FATAL:  password authentication failed for user "user_experience"
+
+2023-10-23 20:32:01,456 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000002170C48B100>
+2023-10-23 20:32:01,457 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000002170BC23670; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-23 20:32:01,457 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000002170BC23670; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-23 20:32:01,457 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000002170BC23670; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-23 20:32:01,663 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000002170BC23BC0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-23 20:32:01,664 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000002170BC23BC0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-23 20:32:01,664 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000002170BC23BC0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-23 20:32:01,958 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000002170BC23AB0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-23 20:32:02,241 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000002170BC23CD0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-23 20:32:02,241 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000002170BC23CD0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-23 20:32:52,507 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000002639193B100>
+2023-10-23 20:32:52,508 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000263910E3670; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-23 20:32:52,508 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x00000263910E3670; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-23 20:32:52,508 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000263910E3670; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-23 20:32:52,959 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000263910E3BC0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-23 20:32:52,959 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x00000263910E3BC0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-23 20:32:52,959 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000263910E3BC0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-23 20:32:53,577 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000263910E3AB0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-23 20:32:53,726 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000263910E3CD0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-23 20:32:53,726 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x00000263910E3CD0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-23 20:33:50,353 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-23 20:33:50,589 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000025DF8E12EC0>
+2023-10-23 20:33:50,589 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000025DF8233890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-23 20:33:50,596 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-23 20:33:50,597 - $(threadName)s - MainProcess - DEBUG - Ocurrio una excepcion: <traceback object at 0x0000025DF8E457C0> relation "users" does not exist
+LINE 1: INSERT INTO Users(username, password) VALUES ('Luca', 'Camil...
+                    ^
+ <traceback object at 0x0000025DF8E457C0>
+2023-10-23 20:33:50,598 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x0000025DF8233890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-23 23:32:30,072 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-23 23:32:30,196 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000024952B1BA00>
+2023-10-23 23:32:30,196 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000024952223890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-23 23:32:30,696 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-23 23:32:30,696 - $(threadName)s - MainProcess - DEBUG - Ocurrio una excepcion: <traceback object at 0x0000024952B51B80> relation "users" does not exist
+LINE 1: INSERT INTO Users(username, email, password) VALUES ('Luca',...
+                    ^
+ <traceback object at 0x0000024952B51B80>
+2023-10-23 23:32:30,697 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x0000024952223890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-23 23:39:12,445 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-23 23:39:12,549 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001816AF1A5C0>
+2023-10-23 23:39:12,550 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001816A623890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-23 23:39:13,024 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: relation "users" does not exist
+LINE 1: INSERT INTO Users(username, email, password) VALUES ('Luca',...
+                    ^
+
+2023-10-23 23:39:13,025 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-23 23:39:13,025 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-23 23:39:13,025 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001816A623890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-23 23:39:13,025 - $(threadName)s - MainProcess - DEBUG - Usuario agregado: None
+2023-10-23 23:39:43,920 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-23 23:39:44,115 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000002D7BFF1A5C0>
+2023-10-23 23:39:44,116 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000002D7BF623890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-23 23:39:44,581 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: relation "users" does not exist
+LINE 1: INSERT INTO Users(username, email, password) VALUES ('Luca',...
+                    ^
+
+2023-10-23 23:39:44,581 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-23 23:39:44,582 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-23 23:39:44,582 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000002D7BF623890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-23 23:39:44,582 - $(threadName)s - MainProcess - DEBUG - Usuario agregado: None
+2023-10-23 23:41:51,660 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-23 23:41:51,869 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000016CB291A5C0>
+2023-10-23 23:41:51,871 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000016CB2023890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-23 23:41:52,347 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: relation "users" does not exist
+LINE 1: INSERT INTO Users(username, email, password) VALUES ('Luca',...
+                    ^
+
+2023-10-23 23:41:52,347 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-23 23:41:52,347 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-23 23:41:52,348 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x0000016CB2023890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-23 23:41:52,348 - $(threadName)s - MainProcess - DEBUG - Usuario agregado: None
+2023-10-23 23:55:42,012 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-23 23:55:42,113 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001C09081A440>
+2023-10-23 23:55:42,118 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001C08FCC3890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-23 23:55:42,582 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: relation "users" does not exist
+LINE 1: INSERT INTO Users(username, email, password) VALUES ('Luca',...
+                    ^
+
+2023-10-23 23:55:42,582 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-23 23:55:42,582 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-23 23:55:42,582 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001C08FCC3890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-23 23:55:42,591 - $(threadName)s - MainProcess - DEBUG - Usuario agregado: False
+2023-10-24 00:01:45,055 - $(threadName)s - MainProcess - DEBUG - 
+                id_user = 1
+                username = Luca
+                Email = lucadoval1@gmail.com
+                password = lareconcha
+                
+2023-10-24 00:07:08,222 - $(threadName)s - MainProcess - DEBUG - 
+                id_user = 1
+                username = Luca
+                Email = lucadoval1@gmail.com
+                password = lareconcha
+                
+2023-10-24 00:07:26,693 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 00:07:26,797 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001E10954EEC0>
+2023-10-24 00:07:26,797 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001E108C23890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 00:07:27,264 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: relation "users" does not exist
+LINE 1: INSERT INTO Users(username, email, password) VALUES ('Luca',...
+                    ^
+
+2023-10-24 00:07:27,264 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 00:07:27,264 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 00:07:27,265 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001E108C23890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 00:07:27,265 - $(threadName)s - MainProcess - DEBUG - Usuario agregado: False
+2023-10-24 18:16:07,475 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 18:16:07,593 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001E39211BE80>
+2023-10-24 18:16:07,593 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001E391823890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:16:08,072 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: relation "users" does not exist
+LINE 1: INSERT INTO Users(username, email, password) VALUES ('Luca',...
+                    ^
+
+2023-10-24 18:16:08,072 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 18:16:08,072 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 18:16:08,072 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001E391823890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:16:08,073 - $(threadName)s - MainProcess - DEBUG - Usuario agregado: False
+2023-10-24 18:23:05,126 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 18:23:05,228 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001D9985194E0>
+2023-10-24 18:23:05,228 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001D997C23890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:23:05,706 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: relation "users" does not exist
+LINE 1: INSERT INTO Users(username, email, password) VALUES ('Luca',...
+                    ^
+
+2023-10-24 18:23:05,706 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 18:23:05,707 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 18:23:05,707 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001D997C23890; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:23:05,708 - $(threadName)s - MainProcess - DEBUG - Usuario agregado: False
+2023-10-24 18:26:03,461 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 18:26:03,558 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000220FFC0F9A0>
+2023-10-24 18:26:03,558 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000220FF0E3890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:26:04,026 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: relation "users" does not exist
+LINE 1: INSERT INTO Users(username, email, password) VALUES ('Luca',...
+                    ^
+
+2023-10-24 18:26:04,026 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 18:26:04,027 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 18:26:04,027 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x00000220FF0E3890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:26:04,027 - $(threadName)s - MainProcess - DEBUG - Usuario agregado: False
+2023-10-24 18:26:32,899 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 18:26:33,002 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000002E8D03194E0>
+2023-10-24 18:26:33,004 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000002E8CFA23890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:26:33,478 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: relation "users" does not exist
+LINE 1: INSERT INTO Users(username, email, password) VALUES ('Luca',...
+                    ^
+
+2023-10-24 18:26:33,478 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 18:26:33,479 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 18:26:33,479 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000002E8CFA23890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:26:33,479 - $(threadName)s - MainProcess - DEBUG - Usuario agregado: False
+2023-10-24 18:34:10,631 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 18:34:10,738 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000029E73219480>
+2023-10-24 18:34:10,738 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000029E726C3890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:34:10,740 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: relation "users" does not exist
+LINE 1: INSERT INTO Users(username, email, password) VALUES ('Luca',...
+                    ^
+
+2023-10-24 18:34:10,740 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 18:34:10,740 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 18:34:10,741 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x0000029E726C3890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:34:10,741 - $(threadName)s - MainProcess - DEBUG - Usuario agregado: False
+2023-10-24 18:36:58,614 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 18:36:58,723 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001DD0F319570>
+2023-10-24 18:36:58,723 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001DD0EA23890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:36:58,724 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: 'psycopg2.extensions.cursor' object has no attribute '_cursor'
+2023-10-24 18:36:58,724 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 18:36:58,724 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 18:36:58,724 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001DD0EA23890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:36:58,724 - $(threadName)s - MainProcess - DEBUG - Usuario agregado: False
+2023-10-24 18:37:27,331 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 18:37:27,435 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000278CF4194E0>
+2023-10-24 18:37:27,435 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000278CE8D3890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:37:27,906 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: relation "users" does not exist
+LINE 1: INSERT INTO Users(username, email, password) VALUES ('Luca',...
+                    ^
+
+2023-10-24 18:37:27,906 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 18:37:27,907 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 18:37:27,907 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x00000278CE8D3890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:37:27,907 - $(threadName)s - MainProcess - DEBUG - Usuario agregado: False
+2023-10-24 18:38:42,782 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 18:38:42,886 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000021927F194E0>
+2023-10-24 18:38:42,886 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000021927623890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:38:43,462 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: relation "users" does not exist
+LINE 1: INSERT INTO Users(username, email, password) VALUES ('Luca',...
+                    ^
+
+2023-10-24 18:38:43,462 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 18:38:43,462 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 18:38:43,462 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x0000021927623890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:38:43,462 - $(threadName)s - MainProcess - DEBUG - Usuario agregado: False
+2023-10-24 18:38:48,383 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 18:38:48,481 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000014880D194E0>
+2023-10-24 18:38:48,482 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000014880423890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:38:48,957 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: relation "users" does not exist
+LINE 1: INSERT INTO Users(username, email, password) VALUES ('Luca',...
+                    ^
+
+2023-10-24 18:38:48,957 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 18:38:48,958 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 18:38:48,958 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x0000014880423890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:38:48,958 - $(threadName)s - MainProcess - DEBUG - Usuario agregado: False
+2023-10-24 18:39:10,864 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 18:39:10,962 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001EB85A194E0>
+2023-10-24 18:39:10,962 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001EB84EE3890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:39:11,428 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: relation "users" does not exist
+LINE 1: INSERT INTO Users(username, email, password) VALUES ('Luca',...
+                    ^
+
+2023-10-24 18:39:11,428 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 18:39:11,428 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 18:39:11,429 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001EB84EE3890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:39:11,430 - $(threadName)s - MainProcess - DEBUG - Usuario agregado: False
+2023-10-24 18:49:27,150 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 18:49:27,251 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001D42F519450>
+2023-10-24 18:49:27,252 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001D42EC23890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:49:27,725 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: relation "users" does not exist
+LINE 1: INSERT INTO Users(username, email, password) VALUES ('lucado...
+                    ^
+
+2023-10-24 18:49:27,726 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 18:49:27,726 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 18:49:27,726 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001D42EC23890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:49:27,726 - $(threadName)s - MainProcess - DEBUG - Usuario agregado: False
+2023-10-24 18:51:38,457 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 18:51:38,557 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000002472D019450>
+2023-10-24 18:51:38,557 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000002472C453890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:51:39,028 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: relation "users" does not exist
+LINE 1: INSERT INTO Users(username, email, password)VALUES('lucadova...
+                    ^
+
+2023-10-24 18:51:39,028 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 18:51:39,029 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 18:51:39,029 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000002472C453890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:51:39,029 - $(threadName)s - MainProcess - DEBUG - Usuario agregado: False
+2023-10-24 18:56:35,648 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 18:56:35,748 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000022076719450>
+2023-10-24 18:56:35,748 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000022075E23890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:56:36,208 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: relation "public.users" does not exist
+LINE 1: INSERT INTO public.Users(username, email, password)VALUES('l...
+                    ^
+
+2023-10-24 18:56:36,208 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 18:56:36,209 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 18:56:36,209 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x0000022075E23890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:56:36,209 - $(threadName)s - MainProcess - DEBUG - Usuario agregado: False
+2023-10-24 18:58:36,604 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001F02688B0D0>
+2023-10-24 18:58:36,604 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001F026023670; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:58:36,604 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001F026023670; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:58:36,604 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001F026023670; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:58:36,698 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001F026023BC0; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:58:36,699 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001F026023BC0; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:58:36,699 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001F026023BC0; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:58:36,793 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001F026023AB0; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:58:36,992 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001F026023CD0; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 18:58:36,993 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001F026023CD0; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:00:40,107 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000167DAA8B0D0>
+2023-10-24 19:00:40,108 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000167DA223670; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:00:40,108 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x00000167DA223670; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:00:40,108 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000167DA223670; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:00:40,204 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000167DA223BC0; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:00:40,205 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x00000167DA223BC0; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:00:40,205 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000167DA223BC0; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:00:40,298 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000167DA223AB0; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:00:40,391 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000167DA223CD0; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:00:40,392 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x00000167DA223CD0; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:00:54,830 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 19:00:55,034 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000013D49A194E0>
+2023-10-24 19:00:55,034 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000013D48EB3890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:00:55,524 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: relation "users" does not exist
+LINE 1: INSERT INTO Users(username, email, password)VALUES('Luca', '...
+                    ^
+
+2023-10-24 19:00:55,524 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 19:00:55,525 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 19:00:55,525 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x0000013D48EB3890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:00:55,525 - $(threadName)s - MainProcess - DEBUG - Usuario agregado: False
+2023-10-24 19:02:20,914 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 19:02:21,011 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001CB653194E0>
+2023-10-24 19:02:21,011 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001CB64A23890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:02:21,490 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: syntax error at or near "user"
+LINE 1: INSERT INTO user(username, email, password)VALUES('Luca', 'l...
+                    ^
+
+2023-10-24 19:02:21,491 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 19:02:21,491 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 19:02:21,491 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001CB64A23890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:02:21,491 - $(threadName)s - MainProcess - DEBUG - Usuario agregado: False
+2023-10-24 19:05:44,198 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 19:05:44,289 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000002985D9194E0>
+2023-10-24 19:05:44,297 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000002985D023890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:05:44,768 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: relation "experience" does not exist
+LINE 1: INSERT INTO Experience(username, email, password)VALUES('Luc...
+                    ^
+
+2023-10-24 19:05:44,768 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 19:05:44,768 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 19:05:44,768 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000002985D023890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:05:44,768 - $(threadName)s - MainProcess - DEBUG - Usuario agregado: False
+2023-10-24 19:07:58,049 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 19:07:58,147 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000218BD2196C0>
+2023-10-24 19:07:58,148 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000218BC6E3890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:07:58,612 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: relation "experience" does not exist
+LINE 1: INSERT INTO Experience(username, email, password)VALUES('Luc...
+                    ^
+
+2023-10-24 19:07:58,612 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 19:07:58,612 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 19:07:58,612 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x00000218BC6E3890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:07:58,613 - $(threadName)s - MainProcess - DEBUG - Usuario agregado: False
+2023-10-24 19:07:58,613 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 19:07:58,613 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000218BC6E3890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:07:58,613 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 19:07:58,615 - $(threadName)s - MainProcess - DEBUG - Ocurrio una excepcion: <traceback object at 0x00000218BD233D40> relation "experience" does not exist
+LINE 1: SELECT * FROM Experience ORDER BY id_user
+                      ^
+ <traceback object at 0x00000218BD233D40>
+2023-10-24 19:07:58,615 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x00000218BC6E3890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:16:46,893 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000023C62D2B0D0>
+2023-10-24 19:16:46,893 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000023C62433670; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:16:46,893 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x0000023C62433670; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:16:46,893 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000023C62433670; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:16:46,994 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000023C62433BC0; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:16:46,994 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x0000023C62433BC0; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:16:46,994 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000023C62433BC0; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:16:47,103 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000023C62433AB0; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:16:47,203 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000023C62433CD0; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:16:47,203 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x0000023C62433CD0; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:18:22,073 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000027D2F36B0D0>
+2023-10-24 19:18:22,073 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000027D2EB13670; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:18:22,073 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x0000027D2EB13670; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:18:22,073 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000027D2EB13670; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:18:22,185 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000027D2EB13BC0; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:18:22,185 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x0000027D2EB13BC0; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:18:22,185 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000027D2EB13BC0; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:18:22,373 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000027D2EB13AB0; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:18:22,579 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000027D2EB13CD0; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:18:22,579 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x0000027D2EB13CD0; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:18:33,100 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 19:18:33,202 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000028D611196C0>
+2023-10-24 19:18:33,203 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000028D60823890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:18:33,675 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: relation "experience" does not exist
+LINE 1: INSERT INTO Experience(username, email, password)VALUES('Luc...
+                    ^
+
+2023-10-24 19:18:33,677 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 19:18:33,677 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 19:18:33,677 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x0000028D60823890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:18:33,677 - $(threadName)s - MainProcess - DEBUG - Usuario agregado: False
+2023-10-24 19:18:33,678 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 19:18:33,678 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000028D60823890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 19:18:33,678 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 19:18:33,678 - $(threadName)s - MainProcess - DEBUG - Ocurrio una excepcion: <traceback object at 0x0000028D61133B00> relation "experience" does not exist
+LINE 1: SELECT * FROM Experience ORDER BY id_user
+                      ^
+ <traceback object at 0x0000028D61133B00>
+2023-10-24 19:18:33,679 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x0000028D60823890; dsn: 'user=postgres password=xxx dbname=user_experience host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:06:11,154 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 20:06:11,250 - $(threadName)s - MainProcess - ERROR - Conexion de poll erronea: connection to server at "127.0.0.1", port 5432 failed: FATAL:  database "Connection" does not exist
+
+2023-10-24 20:06:28,937 - $(threadName)s - MainProcess - ERROR - Conexion de poll erronea: connection to server at "127.0.0.1", port 5432 failed: FATAL:  database "Connection" does not exist
+
+2023-10-24 20:38:39,073 - $(threadName)s - MainProcess - ERROR - Conexion de poll erronea: connection to server at "127.0.0.1", port 5432 failed: FATAL:  password authentication failed for user "Laboratory"
+
+2023-10-24 20:39:01,812 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000260F308B100>
+2023-10-24 20:39:01,813 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000260F2823670; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:39:01,813 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x00000260F2823670; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:39:01,813 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000260F2823670; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:39:01,908 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000260F2823BC0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:39:01,909 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x00000260F2823BC0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:39:01,909 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000260F2823BC0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:39:01,999 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000260F2823AB0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:39:02,092 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000260F2823CD0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:39:02,092 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x00000260F2823CD0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:40:21,933 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001BE7828B100>
+2023-10-24 20:40:21,933 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001BE77A23670; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:40:21,933 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001BE77A23670; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:40:21,933 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001BE77A23670; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:40:22,018 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001BE77A23BC0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:40:22,018 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001BE77A23BC0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:40:22,018 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001BE77A23BC0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:40:22,104 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001BE77A23AB0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:40:22,209 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001BE77A23CD0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:40:22,209 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001BE77A23CD0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:41:01,650 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 20:41:01,750 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000002D3B380FB80>
+2023-10-24 20:41:01,750 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000002D3B2C33890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:41:02,217 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: relation "database" does not exist
+LINE 1: INSERT INTO Database(username, email, password)VALUES('Luca'...
+                    ^
+
+2023-10-24 20:41:02,218 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 20:41:02,218 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 20:41:02,219 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000002D3B2C33890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:41:02,219 - $(threadName)s - MainProcess - DEBUG - Usuario agregado: False
+2023-10-24 20:41:02,219 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 20:41:02,219 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000002D3B2C33890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:41:02,220 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 20:41:02,221 - $(threadName)s - MainProcess - DEBUG - Ocurrio una excepcion: <traceback object at 0x000002D3B38565C0> relation "database" does not exist
+LINE 1: SELECT * FROM Database ORDER BY id_user
+                      ^
+ <traceback object at 0x000002D3B38565C0>
+2023-10-24 20:41:02,221 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000002D3B2C33890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:42:37,046 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 20:42:37,164 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000236EAD196C0>
+2023-10-24 20:42:37,164 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000236EA423890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:42:37,658 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: relation "database" does not exist
+LINE 1: INSERT INTO Database(username, email, password)VALUES('Luca'...
+                    ^
+
+2023-10-24 20:42:37,658 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 20:42:37,659 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 20:42:37,659 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x00000236EA423890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:42:37,659 - $(threadName)s - MainProcess - DEBUG - Usuario agregado: False
+2023-10-24 20:42:37,659 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 20:42:37,660 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000236EA423890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:42:37,660 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 20:42:37,661 - $(threadName)s - MainProcess - DEBUG - Ocurrio una excepcion: <traceback object at 0x00000236EAD33980> relation "database" does not exist
+LINE 1: SELECT * FROM Database ORDER BY id_user
+                      ^
+ <traceback object at 0x00000236EAD33980>
+2023-10-24 20:42:37,661 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x00000236EA423890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:45:31,241 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 20:45:31,346 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001B8400196C0>
+2023-10-24 20:45:31,347 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001B83F513890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:45:31,827 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: relation "database" does not exist
+LINE 1: INSERT INTO Database(username, email, password) VALUES('Luca...
+                    ^
+
+2023-10-24 20:45:31,827 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 20:45:31,829 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 20:45:31,829 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001B83F513890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:45:31,829 - $(threadName)s - MainProcess - DEBUG - Usuario agregado: False
+2023-10-24 20:45:31,829 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 20:45:31,829 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001B83F513890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:45:31,830 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 20:45:31,830 - $(threadName)s - MainProcess - DEBUG - Ocurrio una excepcion: <traceback object at 0x000001B840033B00> relation "database" does not exist
+LINE 1: SELECT * FROM Database ORDER BY id_user
+                      ^
+ <traceback object at 0x000001B840033B00>
+2023-10-24 20:45:31,830 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001B83F513890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:48:43,242 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 20:48:43,344 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001B6C64196C0>
+2023-10-24 20:48:43,345 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001B6C5893890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:48:43,816 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: relation "database" does not exist
+LINE 1: INSERT INTO Database(username, email, password) VALUES('Luca...
+                    ^
+
+2023-10-24 20:48:43,817 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 20:48:43,817 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 20:48:43,817 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001B6C5893890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:48:43,817 - $(threadName)s - MainProcess - DEBUG - Usuario agregado: False
+2023-10-24 20:48:43,818 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 20:48:43,818 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001B6C5893890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:48:43,819 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 20:48:43,819 - $(threadName)s - MainProcess - DEBUG - Ocurrio una excepcion: <traceback object at 0x000001B6C6433B00> relation "database" does not exist
+LINE 1: SELECT * FROM Database ORDER BY id_user
+                      ^
+ <traceback object at 0x000001B6C6433B00>
+2023-10-24 20:48:43,820 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001B6C5893890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:49:58,959 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 20:49:59,060 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000241404196C0>
+2023-10-24 20:49:59,060 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000002413F833890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:49:59,540 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: name 'user' is not defined
+2023-10-24 20:49:59,540 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 20:49:59,542 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 20:49:59,542 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000002413F833890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:49:59,543 - $(threadName)s - MainProcess - DEBUG - Usuario agregado: False
+2023-10-24 20:49:59,543 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 20:49:59,543 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000002413F833890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:49:59,545 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 20:49:59,546 - $(threadName)s - MainProcess - DEBUG - Ocurrio una excepcion: <traceback object at 0x0000024140433080> column "id_user" does not exist
+LINE 1: SELECT * FROM database ORDER BY id_user
+                                        ^
+ <traceback object at 0x0000024140433080>
+2023-10-24 20:49:59,546 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000002413F833890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:50:52,355 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 20:50:52,480 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001C4E25196C0>
+2023-10-24 20:50:52,480 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001C4E1C23890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:50:52,952 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: name 'user' is not defined
+2023-10-24 20:50:52,953 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 20:50:52,955 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 20:50:52,955 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001C4E1C23890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:50:52,955 - $(threadName)s - MainProcess - DEBUG - Usuario agregado: False
+2023-10-24 20:50:52,955 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 20:50:52,955 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001C4E1C23890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:50:52,957 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 20:50:52,958 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 20:50:52,958 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001C4E1C23890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 20:50:52,958 - $(threadName)s - MainProcess - DEBUG - 
+                id_user = 1
+                username = Luca
+                Email = lucadoval1@gmail.com
+                password = None
+                
+2023-10-24 20:50:52,958 - $(threadName)s - MainProcess - DEBUG - 
+                id_user = 2
+                username = Luca
+                Email = lucadoval1@gmail.com
+                password = None
+                
+2023-10-24 21:09:44,688 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 21:09:44,857 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000002245DC18FD0>
+2023-10-24 21:09:44,857 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000002245D033890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 21:09:44,859 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 21:09:44,859 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 21:09:44,859 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000002245D033890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 21:09:44,859 - $(threadName)s - MainProcess - DEBUG - 
+                id_user = 1
+                username = Luca
+                Email = lucadoval1@gmail.com
+                password = None
+                
+2023-10-24 21:09:44,859 - $(threadName)s - MainProcess - DEBUG - 
+                id_user = 2
+                username = Luca
+                Email = lucadoval1@gmail.com
+                password = None
+                
+2023-10-24 21:09:44,859 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 21:09:44,860 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000002245D033890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 21:09:45,067 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 21:09:45,067 - $(threadName)s - MainProcess - DEBUG - Ocurrio una excepcion: <traceback object at 0x000002245DC33800> not all arguments converted during string formatting <traceback object at 0x000002245DC33800>
+2023-10-24 21:09:45,067 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000002245D033890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 21:13:53,922 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 21:13:53,977 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000280B9319090>
+2023-10-24 21:13:53,977 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000280B8A23890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 21:13:53,980 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 21:13:53,981 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 21:13:53,981 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x00000280B8A23890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 21:13:53,981 - $(threadName)s - MainProcess - DEBUG - 
+                id_user = 1
+                username = Luca
+                Email = lucadoval1@gmail.com
+                password = None
+                
+2023-10-24 21:13:53,981 - $(threadName)s - MainProcess - DEBUG - 
+                id_user = 2
+                username = Luca
+                Email = lucadoval1@gmail.com
+                password = None
+                
+2023-10-24 21:13:53,981 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 21:13:53,981 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000280B8A23890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 21:13:54,193 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 21:13:54,193 - $(threadName)s - MainProcess - DEBUG - Ocurrio una excepcion: <traceback object at 0x00000280B9333A80> not all arguments converted during string formatting <traceback object at 0x00000280B9333A80>
+2023-10-24 21:13:54,193 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x00000280B8A23890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 21:16:31,605 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 21:16:31,658 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001E48C2191E0>
+2023-10-24 21:16:31,659 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001E48B6C3890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 21:16:31,662 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 21:16:31,662 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 21:16:31,663 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001E48B6C3890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 21:16:31,663 - $(threadName)s - MainProcess - DEBUG - 
+                id_user = 1
+                username = Luca
+                Email = lucadoval1@gmail.com
+                password = None
+                
+2023-10-24 21:16:31,663 - $(threadName)s - MainProcess - DEBUG - 
+                id_user = 2
+                username = Luca
+                Email = lucadoval1@gmail.com
+                password = None
+                
+2023-10-24 21:16:31,663 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 21:16:31,663 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001E48B6C3890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 21:16:31,871 - $(threadName)s - MainProcess - DEBUG - No se pudo actualizar el usuario: not all arguments converted during string formatting
+2023-10-24 21:16:31,871 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 21:16:31,871 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 21:16:31,871 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001E48B6C3890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 21:16:31,871 - $(threadName)s - MainProcess - DEBUG - Dato actualizado: False
+2023-10-24 21:24:15,536 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 21:24:15,587 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000017E41F19210>
+2023-10-24 21:24:15,587 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000017E41623890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 21:24:15,591 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 21:24:15,591 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 21:24:15,592 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x0000017E41623890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 21:24:15,592 - $(threadName)s - MainProcess - DEBUG - 
+                id_user = 1
+                username = Luca
+                Email = lucadoval1@gmail.com
+                password = None
+                
+2023-10-24 21:24:15,592 - $(threadName)s - MainProcess - DEBUG - 
+                id_user = 2
+                username = Luca
+                Email = lucadoval1@gmail.com
+                password = None
+                
+2023-10-24 21:24:15,592 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 21:24:15,592 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000017E41623890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 21:24:15,799 - $(threadName)s - MainProcess - DEBUG - No se pudo actualizar el usuario: not all arguments converted during string formatting
+2023-10-24 21:24:15,799 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 21:24:15,799 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 21:24:15,799 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x0000017E41623890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 21:24:15,799 - $(threadName)s - MainProcess - DEBUG - Dato actualizado: False
+2023-10-24 21:25:09,117 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 21:25:09,169 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000013B2A419120>
+2023-10-24 21:25:09,169 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000013B298D3890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 21:25:09,173 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 21:25:09,173 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 21:25:09,173 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x0000013B298D3890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 21:25:09,173 - $(threadName)s - MainProcess - DEBUG - 
+                id_user = 1
+                username = Luca
+                Email = lucadoval1@gmail.com
+                password = None
+                
+2023-10-24 21:25:09,173 - $(threadName)s - MainProcess - DEBUG - 
+                id_user = 2
+                username = Luca
+                Email = lucadoval1@gmail.com
+                password = None
+                
+2023-10-24 21:25:09,173 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 21:25:09,173 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000013B298D3890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 21:25:09,382 - $(threadName)s - MainProcess - DEBUG - No se pudo actualizar el usuario: not all arguments converted during string formatting
+2023-10-24 21:25:09,382 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 21:25:09,382 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 21:25:09,382 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x0000013B298D3890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 21:25:09,382 - $(threadName)s - MainProcess - DEBUG - Dato actualizado: False
+2023-10-24 21:26:15,040 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 21:26:15,094 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001D57F619120>
+2023-10-24 21:26:15,094 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001D57EAB3890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 21:26:15,097 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 21:26:15,098 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 21:26:15,098 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001D57EAB3890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 21:26:15,098 - $(threadName)s - MainProcess - DEBUG - 
+                id_user = 1
+                username = Luca
+                Email = lucadoval1@gmail.com
+                password = None
+                
+2023-10-24 21:26:15,098 - $(threadName)s - MainProcess - DEBUG - 
+                id_user = 2
+                username = Luca
+                Email = lucadoval1@gmail.com
+                password = None
+                
+2023-10-24 21:26:15,098 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 21:26:15,098 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001D57EAB3890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 21:26:15,305 - $(threadName)s - MainProcess - DEBUG - No se pudo actualizar el usuario: not all arguments converted during string formatting
+2023-10-24 21:26:15,305 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 21:26:15,305 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 21:26:15,305 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001D57EAB3890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 21:26:15,305 - $(threadName)s - MainProcess - DEBUG - Dato actualizado: False
+2023-10-24 21:36:22,397 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 21:36:22,452 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000020206C19120>
+2023-10-24 21:36:22,452 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000020206053890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 21:36:22,454 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 21:36:22,455 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 21:36:22,455 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x0000020206053890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 21:36:22,455 - $(threadName)s - MainProcess - DEBUG - 
+                id_user = 1
+                username = Luca
+                Email = lucadoval1@gmail.com
+                password = None
+                
+2023-10-24 21:36:22,456 - $(threadName)s - MainProcess - DEBUG - 
+                id_user = 2
+                username = Luca
+                Email = lucadoval1@gmail.com
+                password = None
+                
+2023-10-24 21:36:22,456 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 21:36:22,456 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000020206053890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 21:36:22,664 - $(threadName)s - MainProcess - DEBUG - Usuario Actualizado: 
+                id_user = 2
+                username = Camila
+                Email = camilalbite@gmail.com
+                password = latenesadentrojulian
+                
+2023-10-24 21:36:22,664 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 21:36:22,666 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 21:36:22,666 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x0000020206053890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 21:36:22,666 - $(threadName)s - MainProcess - DEBUG - Dato actualizado: 1
+2023-10-24 21:40:04,204 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-24 21:40:04,261 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000024A25718F40>
+2023-10-24 21:40:04,261 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000024A24E23890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 21:40:04,264 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-24 21:40:04,265 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-24 21:40:04,265 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x0000024A24E23890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-24 21:40:04,265 - $(threadName)s - MainProcess - DEBUG - 
+                id_user = 1
+                username = Luca
+                Email = lucadoval1@gmail.com
+                password = None
+                
+2023-10-24 21:40:04,265 - $(threadName)s - MainProcess - DEBUG - 
+                id_user = 2
+                username = Camila
+                Email = camilalbite@gmail.com
+                password = None
+                
+2023-10-25 19:27:31,033 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-25 19:27:31,147 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000021843B1B7C0>
+2023-10-25 19:27:31,147 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000021843223890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-25 19:27:31,152 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-25 19:27:31,152 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-25 19:27:31,152 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x0000021843223890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-25 19:27:31,153 - $(threadName)s - MainProcess - DEBUG - 
+                id_user = 1
+                username = Luca
+                Email = lucadoval1@gmail.com
+                password = None
+                
+2023-10-25 19:27:31,153 - $(threadName)s - MainProcess - DEBUG - 
+                id_user = 2
+                username = Camila
+                Email = camilalbite@gmail.com
+                password = None
+                
+2023-10-25 19:47:36,367 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-25 19:47:36,571 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001D63C8AB580>
+2023-10-25 19:47:36,571 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001D63C4F3890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-25 19:47:36,575 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-25 19:47:36,576 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-25 19:47:36,576 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001D63C4F3890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-25 20:00:54,986 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-25 20:00:55,086 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001D2551978E0>
+2023-10-25 20:00:55,086 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001D254863890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-25 20:00:55,086 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: 'NoneType' object has no attribute 'encode'
+2023-10-25 20:00:55,086 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-25 20:00:55,087 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-25 20:00:55,087 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001D254863890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-25 20:05:28,253 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-25 20:05:28,469 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000156FE0F7A00>
+2023-10-25 20:05:28,469 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000156FD823890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-25 20:05:28,469 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: 'NoneType' object has no attribute 'encode'
+2023-10-25 20:05:28,469 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-25 20:05:28,469 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-25 20:05:28,469 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x00000156FD823890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-25 20:13:18,548 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-25 20:13:18,670 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000002433FD2DF90>
+2023-10-25 20:13:18,670 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000002433F423890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-25 20:13:19,148 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: name 'user' is not defined
+2023-10-25 20:13:19,148 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-25 20:13:19,151 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-25 20:13:19,152 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000002433F423890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-25 20:15:27,077 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-25 20:15:27,181 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001DA860F7A30>
+2023-10-25 20:15:27,181 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001DA85823890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-25 20:15:27,666 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: name 'user' is not defined
+2023-10-25 20:15:27,666 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-25 20:15:27,668 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-25 20:15:27,669 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001DA85823890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-25 20:29:29,200 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-25 20:29:29,299 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000029CC9F2E470>
+2023-10-25 20:29:29,299 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000029CC9623890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-25 20:29:29,782 - $(threadName)s - MainProcess - DEBUG - Usuario Actualizado: 
+                id_user = 3
+                username = Luli
+                Email = lulialbite@gmail.com
+                password = julianidiota
+                
+2023-10-25 20:29:29,782 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-25 20:29:29,784 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-25 20:29:29,784 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x0000029CC9623890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-25 20:35:32,780 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-25 20:35:32,995 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000023277F282B0>
+2023-10-25 20:35:32,995 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000023277623890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-25 20:35:32,999 - $(threadName)s - MainProcess - DEBUG - Usuario eliminado: 
+                id_user = 4
+                username = None
+                Email = None
+                password = None
+                
+2023-10-25 20:35:33,000 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-25 20:35:33,004 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-25 20:35:33,004 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x0000023277623890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-25 21:16:41,635 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-25 21:16:41,728 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000241E5418DF0>
+2023-10-25 21:16:41,729 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000241E48D3890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-25 21:16:41,733 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-25 21:16:41,733 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-25 21:16:41,733 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x00000241E48D3890; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-25 21:16:41,734 - $(threadName)s - MainProcess - DEBUG - 
+                id_user = 1
+                username = Luca
+                Email = lucadoval1@gmail.com
+                password = None
+                
+2023-10-25 21:16:41,734 - $(threadName)s - MainProcess - DEBUG - 
+                id_user = 2
+                username = Camila
+                Email = camilalbite@gmail.com
+                password = None
+                
+2023-10-25 21:16:41,734 - $(threadName)s - MainProcess - DEBUG - 
+                id_user = 3
+                username = Luli
+                Email = lulialbite@gmail.com
+                password = None
+                
+2023-10-25 21:17:05,697 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-25 21:17:05,798 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000015CAE7F7F10>
+2023-10-25 21:17:05,798 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000015CAE6239A0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-25 21:17:05,804 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-25 21:17:05,804 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-25 21:17:05,805 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x0000015CAE6239A0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-25 21:18:24,261 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2023-10-25 21:18:24,467 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000024A32DF7F10>
+2023-10-25 21:18:24,468 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000024A32C239A0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2023-10-25 21:18:24,472 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2023-10-25 21:18:24,473 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2023-10-25 21:18:24,473 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x0000024A32C239A0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-27 20:17:13,534 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2024-12-27 20:17:15,685 - $(threadName)s - MainProcess - ERROR - Conexion de poll erronea: connection to server at "127.0.0.1", port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-12-27 20:19:31,624 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2024-12-27 20:19:33,759 - $(threadName)s - MainProcess - ERROR - Conexion de poll erronea: connection to server at "127.0.0.1", port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-12-27 20:20:02,706 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2024-12-27 20:20:04,851 - $(threadName)s - MainProcess - ERROR - Conexion de poll erronea: connection to server at "127.0.0.1", port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-12-27 20:23:19,273 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2024-12-27 20:23:21,416 - $(threadName)s - MainProcess - ERROR - Conexion de poll erronea: connection to server at "127.0.0.1", port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-12-27 20:23:38,903 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2024-12-27 20:23:41,048 - $(threadName)s - MainProcess - ERROR - Conexion de poll erronea: connection to server at "127.0.0.1", port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-12-27 20:26:28,397 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2024-12-27 20:26:30,569 - $(threadName)s - MainProcess - ERROR - Conexion de poll erronea: connection to server at "127.0.0.1", port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-12-27 20:29:04,506 - $(threadName)s - MainProcess - DEBUG - 
+                id_user = 1
+                username = Luca
+                Email = lucadoval1@gmail.com
+                password = lareconcha
+                
+2024-12-27 21:00:06,342 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2024-12-27 21:00:06,404 - $(threadName)s - MainProcess - ERROR - Conexion de poll erronea: connection to server at "127.0.0.1", port 5432 failed: FATAL:  database "Laboratory" does not exist
+
+2024-12-27 23:08:54,727 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2024-12-27 23:08:54,796 - $(threadName)s - MainProcess - ERROR - Conexion de poll erronea: connection to server at "127.0.0.1", port 5432 failed: FATAL:  database "Laboratory" does not exist
+
+2024-12-27 23:09:03,239 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2024-12-27 23:09:03,311 - $(threadName)s - MainProcess - ERROR - Conexion de poll erronea: connection to server at "127.0.0.1", port 5432 failed: FATAL:  database "Laboratory" does not exist
+
+2024-12-27 23:09:41,489 - $(threadName)s - MainProcess - ERROR - Conexion de poll erronea: connection to server at "127.0.0.1", port 5432 failed: FATAL:  database "Laboratory" does not exist
+
+2024-12-27 23:49:05,157 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001D5238F2570>
+2024-12-27 23:49:05,158 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001D5238857A0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-27 23:49:05,158 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001D5238857A0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-27 23:49:05,158 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001D5238857A0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-27 23:49:05,204 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001D5238859C0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-27 23:49:05,204 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001D5238859C0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-27 23:49:05,204 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001D5238859C0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-27 23:49:05,250 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001D523885BE0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-27 23:49:05,298 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001D523885CF0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-27 23:49:05,298 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001D523885CF0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-27 23:49:58,596 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2024-12-27 23:49:58,668 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000024354553B90>
+2024-12-27 23:49:58,668 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000243561E9F10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-27 23:49:58,878 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: relation "database" does not exist
+LINE 1: INSERT INTO database(username, email, password) VALUES('Luca...
+                    ^
+
+2024-12-27 23:49:58,879 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2024-12-27 23:49:58,879 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2024-12-27 23:49:58,879 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x00000243561E9F10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-27 23:50:02,877 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2024-12-27 23:50:02,878 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000243561E9F10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-27 23:50:02,878 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2024-12-27 23:50:02,879 - $(threadName)s - MainProcess - DEBUG - Ocurrio una excepcion: <traceback object at 0x000002435457FAC0> relation "database" does not exist
+LINE 1: SELECT * FROM database ORDER BY id_user
+                      ^
+ <traceback object at 0x000002435457FAC0>
+2024-12-27 23:50:02,879 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x00000243561E9F10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-27 23:55:44,541 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2024-12-27 23:55:44,609 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001E676243230>
+2024-12-27 23:55:44,609 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001E677E09E00; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-27 23:55:44,610 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2024-12-27 23:55:44,610 - $(threadName)s - MainProcess - DEBUG - Ocurrio una excepcion: <traceback object at 0x000001E67626FB40> relation "database" does not exist
+LINE 1: SELECT * FROM database ORDER BY id_user
+                      ^
+ <traceback object at 0x000001E67626FB40>
+2024-12-27 23:55:44,611 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001E677E09E00; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:06:45,467 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001ED44A92D80>
+2024-12-28 10:06:45,469 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001ED44A257A0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:06:45,469 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001ED44A257A0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:06:45,469 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001ED44A257A0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:06:45,516 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001ED44A259C0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:06:45,516 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001ED44A259C0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:06:45,516 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001ED44A259C0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:06:45,563 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001ED44A25BE0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:06:45,607 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001ED44A25CF0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:06:45,607 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001ED44A25CF0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:13:42,200 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2024-12-28 10:13:42,333 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001DF65903B90>
+2024-12-28 10:13:42,333 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001DF67519F10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:13:42,817 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: column "email" of relation "database" does not exist
+LINE 1: INSERT INTO database(username, email, password) VALUES('Luca...
+                                       ^
+
+2024-12-28 10:13:42,817 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2024-12-28 10:13:42,818 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2024-12-28 10:13:42,818 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001DF67519F10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:13:45,938 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2024-12-28 10:13:45,938 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001DF67519F10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:13:45,940 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2024-12-28 10:13:45,941 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2024-12-28 10:13:45,941 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001DF67519F10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:13:48,607 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2024-12-28 10:13:48,607 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001DF67519F10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:13:48,609 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2024-12-28 10:13:48,610 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2024-12-28 10:13:48,610 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001DF67519F10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:13:49,747 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2024-12-28 10:13:49,748 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001DF67519F10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:13:49,749 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2024-12-28 10:13:49,750 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2024-12-28 10:13:49,750 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001DF67519F10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:13:51,716 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2024-12-28 10:13:51,716 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001DF67519F10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:13:51,717 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2024-12-28 10:13:51,717 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2024-12-28 10:13:51,718 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001DF67519F10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:21:54,814 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2024-12-28 10:21:54,951 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001C47D310CE0>
+2024-12-28 10:21:54,951 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001C47D309F10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:21:55,435 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: syntax error at or near ":"
+LINE 1: ...T INTO database(username, email, password) VALUES(:1, :2, :3...
+                                                             ^
+
+2024-12-28 10:21:55,435 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2024-12-28 10:21:55,436 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2024-12-28 10:21:55,436 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001C47D309F10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:21:59,861 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2024-12-28 10:21:59,862 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001C47D309F10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:21:59,865 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2024-12-28 10:21:59,866 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2024-12-28 10:21:59,866 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001C47D309F10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:31:36,845 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2024-12-28 10:31:36,846 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001C47D309F10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:31:36,848 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2024-12-28 10:31:36,849 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2024-12-28 10:31:36,849 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001C47D309F10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:31:46,642 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2024-12-28 10:31:46,642 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001C47D309F10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:31:47,120 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: syntax error at or near ":"
+LINE 1: ...T INTO database(username, email, password) VALUES(:1, :2, :3...
+                                                             ^
+
+2024-12-28 10:31:47,120 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2024-12-28 10:31:47,120 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2024-12-28 10:31:47,120 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001C47D309F10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:31:48,908 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2024-12-28 10:31:48,908 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001C47D309F10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:31:48,909 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2024-12-28 10:31:48,910 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2024-12-28 10:31:48,910 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001C47D309F10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:39:32,206 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2024-12-28 10:39:32,336 - $(threadName)s - MainProcess - ERROR - Conexion de poll erronea: connection to server at "127.0.0.1", port 5432 failed: FATAL:  password authentication failed for user "admin"
+
+2024-12-28 10:43:26,179 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2024-12-28 10:43:26,314 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000023677E27440>
+2024-12-28 10:43:26,315 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000023677D9DF10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:43:26,785 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: column "email" of relation "database" does not exist
+LINE 1: INSERT INTO database(username, email, password) VALUES('Luca...
+                                       ^
+
+2024-12-28 10:43:26,786 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2024-12-28 10:43:26,786 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2024-12-28 10:43:26,787 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x0000023677D9DF10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:43:31,775 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2024-12-28 10:43:31,775 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x0000023677D9DF10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:43:31,778 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2024-12-28 10:43:31,779 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2024-12-28 10:43:31,779 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x0000023677D9DF10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:46:41,247 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001CFAA482D80>
+2024-12-28 10:46:41,247 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001CFAA4157A0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:46:41,248 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001CFAA4157A0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:46:41,248 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001CFAA4157A0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:46:41,353 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001CFAA4159C0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:46:41,353 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001CFAA4159C0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:46:41,354 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001CFAA4159C0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:46:41,460 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001CFAA415BE0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:46:41,545 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001CFAA415CF0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:46:41,545 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001CFAA415CF0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:46:55,462 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001F8830DEC30>
+2024-12-28 10:46:55,462 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001F8830757A0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:46:55,463 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001F8830757A0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:46:55,463 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001F8830757A0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:46:55,566 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001F8830759C0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:46:55,566 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001F8830759C0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:46:55,566 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001F8830759C0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:46:55,661 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001F883075BE0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:46:55,747 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001F883075CF0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:46:55,748 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001F883075CF0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:47:44,421 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001F044952D80>
+2024-12-28 10:47:44,422 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001F0448E57A0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:47:44,422 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001F0448E57A0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:47:44,422 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001F0448E57A0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:47:44,508 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001F0448E59C0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:47:44,509 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001F0448E59C0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:47:44,509 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001F0448E59C0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:47:44,594 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001F0448E5BE0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:47:44,678 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000001F0448E5CF0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:47:44,679 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000001F0448E5CF0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:58:01,141 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2024-12-28 10:58:01,274 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000019855D23B90>
+2024-12-28 10:58:01,274 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000198578D9F10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:58:01,744 - $(threadName)s - MainProcess - DEBUG - Error al autenticar usuario: column "email" of relation "database" does not exist
+LINE 1: INSERT INTO database(username, email, password) VALUES('Luca...
+                                       ^
+
+2024-12-28 10:58:01,744 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2024-12-28 10:58:01,745 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2024-12-28 10:58:01,745 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x00000198578D9F10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:58:03,120 - $(threadName)s - MainProcess - DEBUG - Inicio del metodo with __enter__
+2024-12-28 10:58:03,121 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x00000198578D9F10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:58:03,124 - $(threadName)s - MainProcess - DEBUG - Se ejecuta el metodo __exit__
+2024-12-28 10:58:03,125 - $(threadName)s - MainProcess - DEBUG - Se realizo correctamente el commit
+2024-12-28 10:58:03,125 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x00000198578D9F10; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:59:42,897 - $(threadName)s - MainProcess - DEBUG - Conexion de pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000002594A2F8A40>
+2024-12-28 10:59:42,898 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000002594BD457A0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:59:42,898 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000002594BD457A0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:59:42,898 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000002594BD457A0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:59:42,986 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000002594BD459C0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:59:42,986 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000002594BD459C0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:59:42,986 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000002594BD459C0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:59:43,073 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000002594BD45BE0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:59:43,166 - $(threadName)s - MainProcess - DEBUG - Conexion establecida: <connection object at 0x000002594BD45CF0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
+2024-12-28 10:59:43,166 - $(threadName)s - MainProcess - DEBUG - Liberacion de la conexion exitosa: <connection object at 0x000002594BD45CF0; dsn: 'user=postgres password=xxx dbname=Laboratory host=127.0.0.1 port=5432', closed: 0>
