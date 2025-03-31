@@ -10,5 +10,5 @@ Y de forma particular tambien le agregue un programa de hasheo simple para encri
 
 #### Algo para tomar en cuenta
 
-- Es necesario primerto crear un entorno virtual 
+- Es necesario primero crear un entorno virtual 
 - Configurar un Postgre SQL
