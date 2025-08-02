@@ -66,7 +66,7 @@ if __name__ == '__main__':
 
     # Insert()
 
-    # user1 = User(username='', email='lucadoval1@gmail.com', password='Camila')
+    # user1 = User(username='', email='anakin@gmail.com', password='Padme')
     # insert = UserDAO.insert(user1)
     # log.debug(f'Usuario agregado: {insert}')
     #
@@ -78,7 +78,7 @@ if __name__ == '__main__':
 
     # Update Data
 
-    # user2 = User(2, 'Camila', 'camilalbite@gmail.com', 'latenesadentrojulian')
+    # user2 = User(2, 'Obi Wan', 'SuperMaestroJedi@gmail.com', 'latenesadentroAnakin')
     # update_data = UserDAO.update(user2)
     # log.debug(f'Dato actualizado: {update_data}')
 
