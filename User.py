@@ -51,5 +51,5 @@ class User:
 
 
 if __name__ == '__main__':
-    person1 = User(id_user=1, username='Luca', email='lucadoval1@gmail.com', password='lareconcha')
+    person1 = User(id_user=1, username='Anakin', email='elElegido@gmail.com', password='JodeteMaceWindu')
     log.debug(person1)
